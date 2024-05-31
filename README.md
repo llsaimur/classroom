@@ -11,3 +11,11 @@ Features:
   lessons as a student; and to keep track of course completion progress and enrollment statistics. While implementing these features, I practiced how to extend the full-stack
   component slices that make up the frontend–backend-synced application. I added new features by simply implementing data schemas and models, adding new
   backend APIs, and integrating these with new React components in the frontend to complete the full-stack slice.
+
+***
+To test out this project, clone it.
+Once you have the code, go on terminal and type:
+yarn
+--this is to install all node modules/dependicies needed for the project...
+run development
+--this is to run the project, to open go on your browser and type http://localhost:3000/
