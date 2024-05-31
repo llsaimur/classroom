@@ -16,6 +16,6 @@ Features:
 To test out this project, clone it.
 Once you have the code, go on terminal and type:
 yarn
---this is to install all node modules/dependicies needed for the project...
+--this is to install all node modules/dependencies needed for the project...
 run development
 --this is to run the project, to open go on your browser and type http://localhost:3000/
