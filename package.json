@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "llsaimur",
   "license": "MIT",
-  "devDependencies": {
+   "devDependencies": {
     "@babel/core": "7.9.0",
     "@babel/preset-env": "7.9.0",
     "@babel/preset-react": "7.9.4",
@@ -28,6 +28,7 @@
     "cors": "2.8.5",
     "express": "4.17.1",
     "express-jwt": "5.3.1",
+    "formidable": "1.2.2",
     "helmet": "3.22.0",
     "jsonwebtoken": "8.5.1",
     "lodash": "4.17.15",
