@@ -1,21 +1,41 @@
-***
-Classroom is a simple online classroom application, which allows educators to
-add courses that are made up of various lessons, while students can enroll on these
-courses. Additionally, the application will allow students to track their progress
-throughout the course, whereas instructors can monitor how many students have
-enrolled in/on a course, and how many have completed each course. 
-***
-Features:
-  I developed this application by extending the skeleton application from my previous project, go check it out here (https://github.com/llsaimur/mernsetup).
-  I incorporated functionality that allowed users to have multiple roles, including educator and student; to add and publish courses with lessons as an instructor; to enroll on courses and complete
-  lessons as a student; and to keep track of course completion progress and enrollment statistics. While implementing these features, I practiced how to extend the full-stack
-  component slices that make up the frontend–backend-synced application. I added new features by simply implementing data schemas and models, adding new
-  backend APIs, and integrating these with new React components in the frontend to complete the full-stack slice.
+# Classroom
 
-***
-To test out this project, clone it.
-Once you have the code, go on terminal and type:
-yarn
---this is to install all node modules/dependencies needed for the project...
-run development
---this is to run the project, to open go on your browser and type http://localhost:3000/
+Classroom is an online learning platform that allows educators to create courses composed of lessons, while students can enroll in these courses and track their progress. Instructors can monitor enrollment numbers and student completion rates for each course.
+
+---
+
+## Features
+
+- Multiple user roles: **Educator** and **Student**
+- Educators can:
+  - Add and publish courses with lessons
+  - Track course enrollment and completion statistics
+- Students can:
+  - Enroll in courses
+  - Complete lessons and track progress
+- Full-stack integration: backend APIs are synced with React frontend components
+- Easily extendable architecture for adding new features
+
+> This application was developed by extending a skeleton project from [MERN Setup](https://github.com/llsaimur/mernsetup). New features were added by creating data schemas and models, implementing backend APIs, and integrating them with React frontend components to complete full-stack slices.
+
+---
+
+## Key Technologies & Concepts
+
+- **MERN Stack**: MongoDB, Express.js, React, Node.js
+- Role-based user management
+- CRUD operations for courses and lessons
+- Full-stack integration of frontend and backend components
+- Tracking and analytics of student progress and course completion
+
+---
+
+## Project Highlights
+
+- Implemented multiple user roles with different permissions
+- Created full CRUD operations for courses and lessons
+- Built progress tracking for students and analytics for instructors
+- Practiced extending full-stack slices by adding new backend APIs and frontend components
+- Learned advanced MERN stack patterns for scalable application development
+
+---
